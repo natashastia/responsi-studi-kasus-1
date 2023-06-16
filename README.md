@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Natasha Astia Dewanti  
+NIU : 463610
+Sesi : Jarkom Pagi
+Secret String : bd498e4c92a590a3ba2e7337a58c48ed7b29daa37ad2c1a68b631c8d6637885a20230616083924
 
 ## Checklist Responsi
 
